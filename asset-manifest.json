@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/paladins/static/css/main.a4f22a99.chunk.css",
+    "main.js": "/paladins/static/js/main.f0e69b8a.chunk.js",
+    "main.js.map": "/paladins/static/js/main.f0e69b8a.chunk.js.map",
+    "runtime-main.js": "/paladins/static/js/runtime-main.eda57bba.js",
+    "runtime-main.js.map": "/paladins/static/js/runtime-main.eda57bba.js.map",
+    "static/js/2.c12dbaff.chunk.js": "/paladins/static/js/2.c12dbaff.chunk.js",
+    "static/js/2.c12dbaff.chunk.js.map": "/paladins/static/js/2.c12dbaff.chunk.js.map",
+    "static/js/3.08df3cd4.chunk.js": "/paladins/static/js/3.08df3cd4.chunk.js",
+    "static/js/3.08df3cd4.chunk.js.map": "/paladins/static/js/3.08df3cd4.chunk.js.map",
+    "index.html": "/paladins/index.html",
+    "static/css/main.a4f22a99.chunk.css.map": "/paladins/static/css/main.a4f22a99.chunk.css.map",
+    "static/js/2.c12dbaff.chunk.js.LICENSE.txt": "/paladins/static/js/2.c12dbaff.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eda57bba.js",
+    "static/js/2.c12dbaff.chunk.js",
+    "static/css/main.a4f22a99.chunk.css",
+    "static/js/main.f0e69b8a.chunk.js"
+  ]
+}
